@@ -10,8 +10,8 @@ class MyThread(threading.Thread):
 		threading.Thread.__init__(self)
 		self.server = server
 	def run(self):
-		print("start thread", server)
-		check_and_save(server)
+		print("start thread", self.server)
+		check_and_save(self.server)
 		#threadLock.acquire()
 		# do something with share data
 		#threadLock.release()
