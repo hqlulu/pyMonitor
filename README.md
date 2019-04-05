@@ -6,7 +6,7 @@
 3. 监控进程访问nginx获取
 4. 汇总到ElasticSearch，可以做图看进程数变化
 
-php-fpm.d/www.conf的配置，取消前面默认的";"即可，重启fpm生效
+php-fpm.d/www.conf 的配置，取消前面默认的";"即可，重启fpm生效
 ```
 pm.status_path = /status
 ```
