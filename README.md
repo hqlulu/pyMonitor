@@ -56,6 +56,6 @@ curl -H "host:fpm9000" "localhost/status?json"
 {"pool":"www","process manager":"dynamic","start time":1553930856,"start since":493566,"accepted conn":59479,"listen queue":0,"max listen queue":129,"listen queue len":128,"idle processes":353,"active processes":1,"total processes":354,"max active processes":349,"max children reached":0,"slow requests":0}
 ```
 
-![image](https://raw.githubusercontent.com/hqlulu/pyMonitor/master/screen_shoot_es_detail.png)
+![image](https://raw.githubusercontent.com/hqlulu/pyMonitor/master/screen_shoot/screen_shoot_es_detail.png)
 
-![image](https://raw.githubusercontent.com/hqlulu/pyMonitor/master/screen_shoot_es_visualize.png)
+![image](https://raw.githubusercontent.com/hqlulu/pyMonitor/master/screen_shoot/screen_shoot_es_visualize.png)
