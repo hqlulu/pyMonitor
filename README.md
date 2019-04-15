@@ -61,3 +61,5 @@ curl -H "host:fpm9000" "localhost/status?json"
 ![image](https://raw.githubusercontent.com/hqlulu/pyMonitor/master/screen_shoot/screen_shoot_es_detail.png)
 
 ![image](https://raw.githubusercontent.com/hqlulu/pyMonitor/master/screen_shoot/screen_shoot_es_visualize.png)
+
+![image](https://raw.githubusercontent.com/hqlulu/pyMonitor/master/screen_shoot/nginx.png)
